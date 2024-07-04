@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+q{
+    font-style: Arial;
+   color: #0ff3e8;
+    font-size: 12px;
+}
+em{
+    color: aliceblue;
+}
+.classe1
+{
+    font-style: oblique;
+    color: blue;
+    font-size: 20px;
+}
+.classe2{
+    color: blueviolet;
+}
